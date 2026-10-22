@@ -104,10 +104,12 @@ namespace E2
             if (es_multiplo)
             {
                 Console.WriteLine($"{num} es múltiplo de 5!");
+                Console.WriteLine($"Devolución de la funcion: {es_multiplo}");
             }
             else
             {
                 Console.WriteLine($"{num} no es múltiplo de 5...");
+                Console.WriteLine($"Devolución de la funcion: {es_multiplo}");
             }
 
             // 5. Definir e invocar una función vacía para imprimir: "Examen: Programación III", donde "Programación III" corresponda a un argumento.
