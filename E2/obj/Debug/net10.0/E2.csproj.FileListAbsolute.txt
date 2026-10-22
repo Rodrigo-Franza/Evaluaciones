@@ -1,0 +1,14 @@
+/Users/rodrigo/Desktop/Prueba/E2/bin/Debug/net10.0/E2
+/Users/rodrigo/Desktop/Prueba/E2/bin/Debug/net10.0/E2.deps.json
+/Users/rodrigo/Desktop/Prueba/E2/bin/Debug/net10.0/E2.runtimeconfig.json
+/Users/rodrigo/Desktop/Prueba/E2/bin/Debug/net10.0/E2.dll
+/Users/rodrigo/Desktop/Prueba/E2/bin/Debug/net10.0/E2.pdb
+/Users/rodrigo/Desktop/Prueba/E2/obj/Debug/net10.0/E2.GeneratedMSBuildEditorConfig.editorconfig
+/Users/rodrigo/Desktop/Prueba/E2/obj/Debug/net10.0/E2.AssemblyInfoInputs.cache
+/Users/rodrigo/Desktop/Prueba/E2/obj/Debug/net10.0/E2.AssemblyInfo.cs
+/Users/rodrigo/Desktop/Prueba/E2/obj/Debug/net10.0/E2.csproj.CoreCompileInputs.cache
+/Users/rodrigo/Desktop/Prueba/E2/obj/Debug/net10.0/E2.dll
+/Users/rodrigo/Desktop/Prueba/E2/obj/Debug/net10.0/refint/E2.dll
+/Users/rodrigo/Desktop/Prueba/E2/obj/Debug/net10.0/E2.pdb
+/Users/rodrigo/Desktop/Prueba/E2/obj/Debug/net10.0/E2.genruntimeconfig.cache
+/Users/rodrigo/Desktop/Prueba/E2/obj/Debug/net10.0/ref/E2.dll
